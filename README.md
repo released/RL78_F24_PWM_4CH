@@ -42,7 +42,7 @@ press digit D/d , to decrease the target PWM channel DUTY ( ex :5%)
 
 if set CH1:45% , CH2:10% , CH3:60% , CH4:80%
 
-![image](https://github.com/released/RL78_F24_PWM_4CH/blob/main/log1.jpg
+![image](https://github.com/released/RL78_F24_PWM_4CH/blob/main/log1.jpg)
 
 ![image](https://github.com/released/RL78_F24_PWM_4CH/blob/main/log2.jpg)
 
