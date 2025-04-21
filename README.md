@@ -34,9 +34,9 @@ PWM_Channel_Duty_Decrease
 
 press digit 1 ~ 4 , to switch PWM channel
 
-press digit A/a , to increase the target PWM channel DUTY ( ex :5%)
+press digit A/a , to increase the target PWM channel DUTY ( ex :+5%)
 
-press digit D/d , to decrease the target PWM channel DUTY ( ex :5%)
+press digit D/d , to decrease the target PWM channel DUTY ( ex :-5%)
 
 4. below is the log message
 
